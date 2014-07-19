@@ -21,9 +21,9 @@ This will contain notes from all Data Science Specialization courses on Coursera
 * connect local repo to remote repo: git * remote add origin [filepath, occasional]
 * update local repo with remote changes: git pull
   
-  * to check the 'origin' location: git remote -v
+* to check the 'origin' location: git remote -v
   
-  ### How to create a new repo and clone to desktop
+### How to create a new repo and clone to desktop
 1. Create repo on Github online
 2. Clone the online repo onto local working directory
   * git clone URL
